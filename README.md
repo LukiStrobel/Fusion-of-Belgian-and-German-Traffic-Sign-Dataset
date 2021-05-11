@@ -18,3 +18,5 @@ Der Belgian und der German Traffic Sign Dataset bestehen normalerweise aus 62 be
 Im Ordner GTSRB/Final_Training/Images/ befinden sich die fusionierten Bilder aus beiden Datensätzen.
 
 Im Ordner GTSRB_Online-Test-Images-Sorted/GTSRB/Online-Test-sort/ befinden sich die Testbilder.
+
+Die anderen Verzeichnisse können gelöscht werden.
